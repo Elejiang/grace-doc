@@ -1,0 +1,504 @@
+{
+  "x": 160,
+  "y": 30,
+  "width": 820,
+  "height": 1550,
+  "deltaSetLike": {
+    "ROOT": {
+      "x": -999999,
+      "y": -999999,
+      "z": 0,
+      "id": "ROOT",
+      "key": "entry",
+      "width": 0,
+      "height": 0,
+      "attrs": {},
+      "children": [
+        "o1NsMSbp9x",
+        "ZguHP4W3Ra",
+        "odlG7b0hI4",
+        "tZgd8woaUz",
+        "JAdZlL2MkY",
+        "nBo9qukgZN",
+        "PwHIxKxe57",
+        "y6C5EuzLos",
+        "DhbY3OVHdE",
+        "pYPirMVlvX",
+        "rpCv9d3a7Q",
+        "ljsr0AJ4B6",
+        "vEDUTy8M25",
+        "RQ4qbK74oz",
+        "E5QmTVShGH",
+        "qjc13uPQUr",
+        "ythjcBX0mn",
+        "a7dDhS7Kvy",
+        "KmqX9Ofoyw",
+        "duv4fhIBbG",
+        "PEVldnIjGU",
+        "mKjxZkk9mQ",
+        "GqngUCTiwJ",
+        "LB7HawIdYO",
+        "Hf4m08ZVnu",
+        "c0f8VElbtU",
+        "Wq7g8kkr63",
+        "cGtSyYTjUv",
+        "yosBZkz6tC",
+        "U08yxlFSTH",
+        "YvhWhdz6Sk"
+      ]
+    },
+    "o1NsMSbp9x": {
+      "x": 534.9203296703297,
+      "y": 65,
+      "z": 0,
+      "id": "o1NsMSbp9x",
+      "key": "text",
+      "width": 63.608516483516496,
+      "height": 32,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"张三\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"20\"}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"张文超\",\"bold\":true,\"font-base\":{\"fontSize\":20}}]}]"
+      },
+      "children": []
+    },
+    "ZguHP4W3Ra": {
+      "x": 422.4989697802198,
+      "y": 97,
+      "z": 0,
+      "id": "ZguHP4W3Ra",
+      "key": "text",
+      "width": 300.5357142857142,
+      "height": 32,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"18888888888 | 123123123123@163.com\",\"config\":{}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"15970326651 | elegance520@163.com\"}]}]"
+      },
+      "children": []
+    },
+    "odlG7b0hI4": {
+      "x": 184.75,
+      "y": 121,
+      "z": 0,
+      "id": "odlG7b0hI4",
+      "key": "text",
+      "width": 249.0453296703297,
+      "height": 30,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"教\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"SIZE\":\"18\"}},{\"char\":\"育\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"SIZE\":\"18\"}},{\"char\":\"经\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"SIZE\":\"18\"}},{\"char\":\"历\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"SIZE\":\"18\"}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"教育经历\",\"font-base\":{\"color\":\"rgb(var(--red-6))\",\"fontSize\":18},\"bold\":true,\"italic\":true}]}]"
+      },
+      "children": []
+    },
+    "tZgd8woaUz": {
+      "x": 184.75,
+      "y": 151,
+      "z": 0,
+      "id": "tZgd8woaUz",
+      "key": "rect",
+      "width": 763.9491758241759,
+      "height": 7,
+      "attrs": {
+        "L": "false",
+        "R": "false",
+        "T": "false",
+        "B": "true",
+        "border-color": "#FF0000",
+        "fill-color": "#FFFFFF00",
+        "border-width": "2"
+      },
+      "children": []
+    },
+    "JAdZlL2MkY": {
+      "x": 184.75,
+      "y": 166.5,
+      "z": 0,
+      "id": "JAdZlL2MkY",
+      "key": "text",
+      "width": 128.2005494505495,
+      "height": 29,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"xx大学 - 本科\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"16\"}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"南昌大学 - 本科\",\"font-base\":{\"fontSize\":16},\"bold\":true}]}]"
+      },
+      "children": []
+    },
+    "nBo9qukgZN": {
+      "x": 184.75,
+      "y": 223.5,
+      "z": 0,
+      "id": "nBo9qukgZN",
+      "key": "text",
+      "width": 147.11538461538464,
+      "height": 34,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"实\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"BACKGROUND\":\"#fff\",\"SIZE\":\"18\"}},{\"char\":\"习\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"BACKGROUND\":\"#fff\",\"SIZE\":\"18\"}},{\"char\":\"经\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"BACKGROUND\":\"#fff\",\"SIZE\":\"18\"}},{\"char\":\"历\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"BACKGROUND\":\"#fff\",\"SIZE\":\"18\"}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"实习经历\",\"font-base\":{\"fontSize\":18,\"color\":\"rgb(var(--red-6))\",\"background\":\"var(--color-white)\"},\"bold\":true,\"italic\":true}]}]"
+      },
+      "children": []
+    },
+    "PwHIxKxe57": {
+      "x": 184.80082417582406,
+      "y": 1042.5,
+      "z": 0,
+      "id": "PwHIxKxe57",
+      "key": "text",
+      "width": 196.50412087912093,
+      "height": 33,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"项\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"SIZE\":\"18\"}},{\"char\":\"目\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"SIZE\":\"18\"}},{\"char\":\"经\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"SIZE\":\"18\"}},{\"char\":\"历\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"SIZE\":\"18\"}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"项目经历\",\"font-base\":{\"fontSize\":18,\"color\":\"rgb(var(--red-6))\"},\"bold\":true,\"italic\":true}]}]"
+      },
+      "children": []
+    },
+    "y6C5EuzLos": {
+      "x": 184.80082417582406,
+      "y": 1325.5,
+      "z": 0,
+      "id": "y6C5EuzLos",
+      "key": "text",
+      "width": 156.57280219780216,
+      "height": 27,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"专\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"SIZE\":\"18\"}},{\"char\":\"业\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"SIZE\":\"18\"}},{\"char\":\"技\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"SIZE\":\"18\"}},{\"char\":\"能\",\"config\":{\"WEIGHT\":\"bold\",\"STYLE\":\"italic\",\"COLOR\":\"rgb(245,63,63)\",\"SIZE\":\"18\"}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"专业技能\",\"font-base\":{\"fontSize\":18,\"color\":\"rgb(var(--red-6))\"},\"bold\":true,\"italic\":true}]}]"
+      },
+      "children": []
+    },
+    "DhbY3OVHdE": {
+      "x": 309.27266483516485,
+      "y": 166.5,
+      "z": 0,
+      "id": "DhbY3OVHdE",
+      "key": "image",
+      "width": 117.69230769230768,
+      "height": 29,
+      "attrs": {
+        "src": "data:image/png;base64,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"
+      },
+      "children": []
+    },
+    "pYPirMVlvX": {
+      "x": 184.75,
+      "y": 195.5,
+      "z": 0,
+      "id": "pYPirMVlvX",
+      "key": "text",
+      "width": 193.35164835164835,
+      "height": 28,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"计\",\"config\":{}},{\"char\":\"算\",\"config\":{}},{\"char\":\"机\",\"config\":{}},{\"char\":\"科\",\"config\":{}},{\"char\":\"学\",\"config\":{}},{\"char\":\"与\",\"config\":{}},{\"char\":\"技\",\"config\":{}},{\"char\":\"术\",\"config\":{}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"计算机科学与技术\"}]}]"
+      },
+      "children": []
+    },
+    "rpCv9d3a7Q": {
+      "x": 184.75,
+      "y": 254,
+      "z": 0,
+      "id": "rpCv9d3a7Q",
+      "key": "rect",
+      "width": 763.9491758241759,
+      "height": 7,
+      "attrs": {
+        "L": "false",
+        "R": "false",
+        "T": "false",
+        "B": "true",
+        "border-color": "#FF0000",
+        "fill-color": "#FFFFFF00",
+        "border-width": "2"
+      },
+      "children": []
+    },
+    "ljsr0AJ4B6": {
+      "x": 186.32623626373635,
+      "y": 584,
+      "z": 0,
+      "id": "ljsr0AJ4B6",
+      "key": "text",
+      "width": 494.9381868131868,
+      "height": 31,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"小\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"红\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"书\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\" \",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"-\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\" \",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"行\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"吟\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"信\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"息\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"科\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"技\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"（\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"上\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"海\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"）\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"有\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"限\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"公\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"司\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\" \",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"-\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\" \",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"J\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"a\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"v\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"a\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"后\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"端\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"实\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"习\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"生\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"小红书 - 行吟信息科技（上海）有限公司 - Java后端实习生\",\"font-base\":{\"fontSize\":17},\"bold\":true}]}]"
+      },
+      "children": []
+    },
+    "vEDUTy8M25": {
+      "x": 184.80082417582406,
+      "y": 614,
+      "z": 0,
+      "id": "vEDUTy8M25",
+      "key": "text",
+      "width": 758.695054945055,
+      "height": 192,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"主要工作：\",\"config\":{}}],\"config\":{}},{\"chars\":[],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"主要工作：\"}]},{\"unordered-list\":true,\"children\":[{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"重构项目缓存架构，实现 Caffeine-Redis-MySQL 多级缓存通用代码，应用于17个子类热点数据当中。通过逻辑过期更新防止缓存击穿，使用 Redis 的 Pub/Sub 功能保证本地缓存一致性。\"}],\"unordered-list-item\":{\"level\":1}},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"为满足用户出行需求，主导同程旅行机票查询及订单系统对接，负责数据库表设计及整体流程架构规划。设计高扩展性票务系统架构，为未来接入其它第三方服务提供标准化支持。\"}],\"unordered-list-item\":{\"level\":1}},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"通过使用 Jinjava 模板引擎结合 Few-shot 学习方法，优化 AI 回答机制，有效提升回答准确率与场景契合度，bad case 通过率由32%提升至57%，有效提高系统智能化水平。\"}],\"unordered-list-item\":{\"level\":1}}]}]}]}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"针对大模型长对话场景的历史记忆丢失问题。开发记忆模块总结用户Profile，通过 RocketMQ 异步进行历史对话归档处理，不影响主请求的情况下保障用户长对话的上下文连贯性。\"}],\"unordered-list-item\":{\"level\":1}}]}]"
+      },
+      "children": []
+    },
+    "RQ4qbK74oz": {
+      "x": 774.9574175824175,
+      "y": 584,
+      "z": 0,
+      "id": "RQ4qbK74oz",
+      "key": "text",
+      "width": 173.79258241758237,
+      "height": 23,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"2024年10月 - 2025年02月\",\"config\":{}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"2024年10月 - 2025年02月\"}]}]"
+      },
+      "children": []
+    },
+    "E5QmTVShGH": {
+      "x": 186.32623626373635,
+      "y": 812.5,
+      "z": 0,
+      "id": "E5QmTVShGH",
+      "key": "text",
+      "width": 460.26098901098896,
+      "height": 33,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"美\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"团\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\" \",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"-\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\" \",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"北\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"京\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"三\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"快\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"科\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"技\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"有\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"限\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"公\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"司\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\" \",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"-\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\" \",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"J\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"a\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"v\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"a\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"后\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"端\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"实\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"习\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}},{\"char\":\"生\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"美团 - 北京三快科技有限公司 - Java后端实习生\",\"font-base\":{\"fontSize\":17},\"bold\":true}]}]"
+      },
+      "children": []
+    },
+    "qjc13uPQUr": {
+      "x": 184.80082417582406,
+      "y": 845.5,
+      "z": 0,
+      "id": "qjc13uPQUr",
+      "key": "text",
+      "width": 754.4917582417582,
+      "height": 192,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"主要工作：\",\"config\":{}}],\"config\":{}},{\"chars\":[],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"在部门主导的客服与业务系统解耦架构中，负责服务接口的实现与扩展，确保在多业务场景中灵活处理客诉需求，累计完成32个任务，上线59个接口。\"}]},{\"children\":[{\"text\":\"主要工作：\"}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"引入线程池技术，针对多个接口进行了并发处理优化和重构，提高接口响应速度。如某一接口经过线程池优化后，响应时间从1358ms缩短至582ms，线上运行时接口的TP99指标达到613ms。\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"基于模板 + 接口回调机制，开发自定义工具注解，简化组内日常开发任务的流程。撰写详细文档并将该工具集成至公共jar包，供团队成员使用，提升团队开发效率和代码一致性。\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"引入缓存优化 FAQ 数据查询，将接口RT由80ms+降至4ms+。使用“周期拉取 + 阈值触发更新”策略，解决场景中数据更新不可感知带来的缓存一致性问题。\"}],\"unordered-list-item\":{\"level\":1}}]}]"
+      },
+      "children": []
+    },
+    "ythjcBX0mn": {
+      "x": 184.80082417582406,
+      "y": 1072,
+      "z": 0,
+      "id": "ythjcBX0mn",
+      "key": "rect",
+      "width": 763.9491758241759,
+      "height": 7,
+      "attrs": {
+        "L": "false",
+        "R": "false",
+        "T": "false",
+        "B": "true",
+        "border-color": "#FF0000",
+        "fill-color": "#FFFFFF00",
+        "border-width": "2"
+      },
+      "children": []
+    },
+    "a7dDhS7Kvy": {
+      "x": 185.85164835164812,
+      "y": 1085.5,
+      "z": 0,
+      "id": "a7dDhS7Kvy",
+      "key": "text",
+      "width": 761.8475274725276,
+      "height": 240,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"G\",\"config\":{}},{\"char\":\"r\",\"config\":{}},{\"char\":\"a\",\"config\":{}},{\"char\":\"c\",\"config\":{}},{\"char\":\"e\",\"config\":{}},{\"char\":\"-\",\"config\":{}},{\"char\":\"G\",\"config\":{}},{\"char\":\"a\",\"config\":{}},{\"char\":\"t\",\"config\":{}},{\"char\":\"e\",\"config\":{}},{\"char\":\"w\",\"config\":{}},{\"char\":\"a\",\"config\":{}},{\"char\":\"y\",\"config\":{}}],\"config\":{}},{\"chars\":[{\"char\":\"项\",\"config\":{}},{\"char\":\"目\",\"config\":{}},{\"char\":\"描\",\"config\":{}},{\"char\":\"述\",\"config\":{}},{\"char\":\"：\",\"config\":{}},{\"char\":\"自\",\"config\":{}},{\"char\":\"研\",\"config\":{}},{\"char\":\"网\",\"config\":{}},{\"char\":\"关\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"作\",\"config\":{}},{\"char\":\"为\",\"config\":{}},{\"char\":\"微\",\"config\":{}},{\"char\":\"服\",\"config\":{}},{\"char\":\"务\",\"config\":{}},{\"char\":\"接\",\"config\":{}},{\"char\":\"入\",\"config\":{}},{\"char\":\"层\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"用\",\"config\":{}},{\"char\":\"于\",\"config\":{}},{\"char\":\"管\",\"config\":{}},{\"char\":\"理\",\"config\":{}},{\"char\":\"和\",\"config\":{}},{\"char\":\"控\",\"config\":{}},{\"char\":\"制\",\"config\":{}},{\"char\":\"从\",\"config\":{}},{\"char\":\"客\",\"config\":{}},{\"char\":\"户\",\"config\":{}},{\"char\":\"端\",\"config\":{}},{\"char\":\"到\",\"config\":{}},{\"char\":\"后\",\"config\":{}},{\"char\":\"端\",\"config\":{}},{\"char\":\"服\",\"config\":{}},{\"char\":\"务\",\"config\":{}},{\"char\":\"的\",\"config\":{}},{\"char\":\"所\",\"config\":{}},{\"char\":\"有\",\"config\":{}},{\"char\":\"A\",\"config\":{}},{\"char\":\"P\",\"config\":{}},{\"char\":\"I\",\"config\":{}},{\"char\":\"请\",\"config\":{}},{\"char\":\"求\",\"config\":{}},{\"char\":\"和\",\"config\":{}},{\"char\":\"流\",\"config\":{}},{\"char\":\"量\",\"config\":{}},{\"char\":\"。\",\"config\":{}},{\"char\":\"基\",\"config\":{}},{\"char\":\"于\",\"config\":{}},{\"char\":\" \",\"config\":{}},{\"char\":\"N\",\"config\":{}},{\"char\":\"e\",\"config\":{}},{\"char\":\"t\",\"config\":{}},{\"char\":\"t\",\"config\":{}},{\"char\":\"y\",\"config\":{}},{\"char\":\" \",\"config\":{}},{\"char\":\"搭\",\"config\":{}},{\"char\":\"建\",\"config\":{}},{\"char\":\"网\",\"config\":{}},{\"char\":\"关\",\"config\":{}},{\"char\":\"核\",\"config\":{}},{\"char\":\"心\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"使\",\"config\":{}},{\"char\":\"用\",\"config\":{}},{\"char\":\" \",\"config\":{}},{\"char\":\"A\",\"config\":{}},{\"char\":\"s\",\"config\":{}},{\"char\":\"y\",\"config\":{}},{\"char\":\"n\",\"config\":{}},{\"char\":\"c\",\"config\":{}},{\"char\":\"H\",\"config\":{}},{\"char\":\"t\",\"config\":{}},{\"char\":\"t\",\"config\":{}},{\"char\":\"p\",\"config\":{}},{\"char\":\"C\",\"config\":{}},{\"char\":\"l\",\"config\":{}},{\"char\":\"i\",\"config\":{}},{\"char\":\"e\",\"config\":{}},{\"char\":\"n\",\"config\":{}},{\"char\":\"t\",\"config\":{}},{\"char\":\" \",\"config\":{}},{\"char\":\"实\",\"config\":{}},{\"char\":\"现\",\"config\":{}},{\"char\":\"全\",\"config\":{}},{\"char\":\"异\",\"config\":{}},{\"char\":\"步\",\"config\":{}},{\"char\":\"链\",\"config\":{}},{\"char\":\"路\",\"config\":{}},{\"char\":\"处\",\"config\":{}},{\"char\":\"理\",\"config\":{}},{\"char\":\"。\",\"config\":{}},{\"char\":\"实\",\"config\":{}},{\"char\":\"现\",\"config\":{}},{\"char\":\"高\",\"config\":{}},{\"char\":\"效\",\"config\":{}},{\"char\":\"的\",\"config\":{}},{\"char\":\"请\",\"config\":{}},{\"char\":\"求\",\"config\":{}},{\"char\":\"转\",\"config\":{}},{\"char\":\"发\",\"config\":{}},{\"char\":\"、\",\"config\":{}},{\"char\":\"流\",\"config\":{}},{\"char\":\"量\",\"config\":{}},{\"char\":\"控\",\"config\":{}},{\"char\":\"制\",\"config\":{}},{\"char\":\"、\",\"config\":{}},{\"char\":\"负\",\"config\":{}},{\"char\":\"载\",\"config\":{}},{\"char\":\"均\",\"config\":{}},{\"char\":\"衡\",\"config\":{}},{\"char\":\"以\",\"config\":{}},{\"char\":\"及\",\"config\":{}},{\"char\":\"服\",\"config\":{}},{\"char\":\"务\",\"config\":{}},{\"char\":\"降\",\"config\":{}},{\"char\":\"级\",\"config\":{}},{\"char\":\"保\",\"config\":{}},{\"char\":\"护\",\"config\":{}},{\"char\":\"等\",\"config\":{}},{\"char\":\"多\",\"config\":{}},{\"char\":\"种\",\"config\":{}},{\"char\":\"功\",\"config\":{}},{\"char\":\"能\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"确\",\"config\":{}},{\"char\":\"保\",\"config\":{}},{\"char\":\"系\",\"config\":{}},{\"char\":\"统\",\"config\":{}},{\"char\":\"在\",\"config\":{}},{\"char\":\"高\",\"config\":{}},{\"char\":\"负\",\"config\":{}},{\"char\":\"载\",\"config\":{}},{\"char\":\"下\",\"config\":{}},{\"char\":\"的\",\"config\":{}},{\"char\":\"稳\",\"config\":{}},{\"char\":\"定\",\"config\":{}},{\"char\":\"性\",\"config\":{}},{\"char\":\"和\",\"config\":{}},{\"char\":\"灵\",\"config\":{}},{\"char\":\"活\",\"config\":{}},{\"char\":\"性\",\"config\":{}},{\"char\":\"。\",\"config\":{}}],\"config\":{}},{\"chars\":[{\"char\":\"我\",\"config\":{}},{\"char\":\"负\",\"config\":{}},{\"char\":\"责\",\"config\":{}},{\"char\":\"的\",\"config\":{}},{\"char\":\"部\",\"config\":{}},{\"char\":\"分\",\"config\":{}},{\"char\":\"：\",\"config\":{}}],\"config\":{}},{\"chars\":[{\"char\":\"针\",\"config\":{}},{\"char\":\"对\",\"config\":{}},{\"char\":\"注\",\"config\":{}},{\"char\":\"册\",\"config\":{}},{\"char\":\"中\",\"config\":{}},{\"char\":\"心\",\"config\":{}},{\"char\":\"与\",\"config\":{}},{\"char\":\"配\",\"config\":{}},{\"char\":\"置\",\"config\":{}},{\"char\":\"中\",\"config\":{}},{\"char\":\"心\",\"config\":{}},{\"char\":\"实\",\"config\":{}},{\"char\":\"现\",\"config\":{}},{\"char\":\" \",\"config\":{}},{\"char\":\"N\",\"config\":{}},{\"char\":\"a\",\"config\":{}},{\"char\":\"c\",\"config\":{}},{\"char\":\"o\",\"config\":{}},{\"char\":\"s\",\"config\":{}},{\"char\":\" \",\"config\":{}},{\"char\":\"、\",\"config\":{}},{\"char\":\"Z\",\"config\":{}},{\"char\":\"o\",\"config\":{}},{\"char\":\"o\",\"config\":{}},{\"char\":\"k\",\"config\":{}},{\"char\":\"e\",\"config\":{}},{\"char\":\"e\",\"config\":{}},{\"char\":\"p\",\"config\":{}},{\"char\":\"e\",\"config\":{}},{\"char\":\"r\",\"config\":{}},{\"char\":\" \",\"config\":{}},{\"char\":\"多\",\"config\":{}},{\"char\":\"选\",\"config\":{}},{\"char\":\"择\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"支\",\"config\":{}},{\"char\":\"持\",\"config\":{}},{\"char\":\"动\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"态\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"修\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"改\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"路\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"由\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"配\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"置\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"。\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}},{\"chars\":[{\"char\":\"针\",\"config\":{}},{\"char\":\"对\",\"config\":{}},{\"char\":\"请\",\"config\":{}},{\"char\":\"求\",\"config\":{}},{\"char\":\"构\",\"config\":{}},{\"char\":\"建\",\"config\":{}},{\"char\":\"插\",\"config\":{}},{\"char\":\"拔\",\"config\":{}},{\"char\":\"式\",\"config\":{}},{\"char\":\"动\",\"config\":{}},{\"char\":\"态\",\"config\":{}},{\"char\":\"过\",\"config\":{}},{\"char\":\"滤\",\"config\":{}},{\"char\":\"器\",\"config\":{}},{\"char\":\"链\",\"config\":{}},{\"char\":\"条\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"实\",\"config\":{}},{\"char\":\"现\",\"config\":{}},{\"char\":\"路\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"由\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"谓\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"词\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"匹\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"配\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"路\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"由\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"转\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"发\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"灰\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"度\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"分\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"流\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"等\",\"config\":{}},{\"char\":\"功\",\"config\":{}},{\"char\":\"能\",\"config\":{}},{\"char\":\"。\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}},{\"chars\":[{\"char\":\"实\",\"config\":{}},{\"char\":\"现\",\"config\":{}},{\"char\":\"多\",\"config\":{}},{\"char\":\"种\",\"config\":{}},{\"char\":\"负\",\"config\":{}},{\"char\":\"载\",\"config\":{}},{\"char\":\"均\",\"config\":{}},{\"char\":\"衡\",\"config\":{}},{\"char\":\"策\",\"config\":{}},{\"char\":\"略\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"如\",\"config\":{}},{\"char\":\"轮\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"询\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"随\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"机\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"权\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"重\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"一\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"致\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"性\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"哈\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"希\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"，\",\"config\":{}},{\"char\":\"支\",\"config\":{}},{\"char\":\"持\",\"config\":{}},{\"char\":\"动\",\"config\":{}},{\"char\":\"态\",\"config\":{}},{\"char\":\"增\",\"config\":{}},{\"char\":\"删\",\"config\":{}},{\"char\":\"实\",\"config\":{}},{\"char\":\"例\",\"config\":{}},{\"char\":\"节\",\"config\":{}},{\"char\":\"点\",\"config\":{}},{\"char\":\"。\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}},{\"chars\":[{\"char\":\"实\",\"config\":{}},{\"char\":\"现\",\"config\":{}},{\"char\":\"网\",\"config\":{}},{\"char\":\"关\",\"config\":{}},{\"char\":\"弹\",\"config\":{}},{\"char\":\"性\",\"config\":{}},{\"char\":\"扩\",\"config\":{}},{\"char\":\"展\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"支\",\"config\":{}},{\"char\":\"持\",\"config\":{}},{\"char\":\"信\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"号\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"量\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"隔\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"离\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"线\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"程\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"池\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"隔\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"离\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"失\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"败\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"重\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"试\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"熔\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"断\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"保\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"护\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"降\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"级\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"处\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"理\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"等\",\"config\":{}},{\"char\":\"功\",\"config\":{}},{\"char\":\"能\",\"config\":{}},{\"char\":\"。\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}},{\"chars\":[{\"char\":\"实\",\"config\":{}},{\"char\":\"现\",\"config\":{}},{\"char\":\"了\",\"config\":{}},{\"char\":\"多\",\"config\":{}},{\"char\":\"维\",\"config\":{}},{\"char\":\"度\",\"config\":{}},{\"char\":\"流\",\"config\":{}},{\"char\":\"量\",\"config\":{}},{\"char\":\"控\",\"config\":{}},{\"char\":\"制\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"如\",\"config\":{}},{\"char\":\"滑\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"动\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"窗\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"口\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"限\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"流\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"令\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"牌\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"桶\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"限\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"流\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"漏\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"桶\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"限\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"流\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"，\",\"config\":{}},{\"char\":\"支\",\"config\":{}},{\"char\":\"持\",\"config\":{}},{\"char\":\"动\",\"config\":{}},{\"char\":\"态\",\"config\":{}},{\"char\":\"调\",\"config\":{}},{\"char\":\"整\",\"config\":{}},{\"char\":\"限\",\"config\":{}},{\"char\":\"流\",\"config\":{}},{\"char\":\"策\",\"config\":{}},{\"char\":\"略\",\"config\":{}},{\"char\":\"。\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}},{\"chars\":[{\"char\":\"基\",\"config\":{}},{\"char\":\"于\",\"config\":{}},{\"char\":\" \",\"config\":{}},{\"char\":\"S\",\"config\":{}},{\"char\":\"P\",\"config\":{}},{\"char\":\"I\",\"config\":{}},{\"char\":\" \",\"config\":{}},{\"char\":\"允\",\"config\":{}},{\"char\":\"许\",\"config\":{}},{\"char\":\"用\",\"config\":{}},{\"char\":\"户\",\"config\":{}},{\"char\":\"自\",\"config\":{}},{\"char\":\"定\",\"config\":{}},{\"char\":\"义\",\"config\":{}},{\"char\":\"扩\",\"config\":{}},{\"char\":\"展\",\"config\":{}},{\"char\":\"网\",\"config\":{}},{\"char\":\"关\",\"config\":{}},{\"char\":\"功\",\"config\":{}},{\"char\":\"能\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"如\",\"config\":{}},{\"char\":\"自\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"定\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"义\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"过\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"滤\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"器\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"限\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"流\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"策\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"略\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"灰\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"度\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"策\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"略\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"负\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"载\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"均\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"衡\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"策\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"略\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"降\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"级\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"策\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"略\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"等\",\"config\":{}},{\"char\":\"。\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"Grace-Gateway\"}]},{\"children\":[{\"text\":\"项目描述：自研网关，作为微服务接入层，用于管理和控制从客户端到后端服务的所有API请求和流量。基于 Netty 搭建网关核心，使用 AsyncHttpClient 实现全异步链路处理。实现高效的请求转发、流量控制、负载均衡以及服务降级保护等多种功能，确保系统在高负载下的稳定性和灵活性。\"}]},{\"children\":[{\"text\":\"我负责的部分：\"}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"针对注册中心与配置中心实现 Nacos 、Zookeeper 多选择，支持\"},{\"text\":\"动态修改路由配置\",\"bold\":true},{\"text\":\"。\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"针对请求构建插拔式动态过滤器链条，实现\"},{\"text\":\"路由谓词匹配、路由转发、灰度分流\",\"bold\":true},{\"text\":\"等功能。\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"实现多种负载均衡策略，如\"},{\"text\":\"轮询、随机、权重、一致性哈希\",\"bold\":true},{\"text\":\"，支持动态增删实例节点。\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"实现网关弹性扩展，支持\"},{\"text\":\"信号量隔离、线程池隔离、失败重试、熔断保护、降级处理\",\"bold\":true},{\"text\":\"等功能。\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"实现了多维度流量控制，如\"},{\"text\":\"滑动窗口限流、令牌桶限流、漏桶限流\",\"bold\":true},{\"text\":\"，支持动态调整限流策略。\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"基于 SPI 允许用户自定义扩展网关功能，如\"},{\"text\":\"自定义过滤器、限流策略、灰度策略、负载均衡策略、降级策略\",\"bold\":true},{\"text\":\"等。\"}],\"unordered-list-item\":{\"level\":1}}]}]"
+      },
+      "children": []
+    },
+    "KmqX9Ofoyw": {
+      "x": 185.85164835164812,
+      "y": 1352.5,
+      "z": 0,
+      "id": "KmqX9Ofoyw",
+      "key": "rect",
+      "width": 763.9491758241759,
+      "height": 7,
+      "attrs": {
+        "L": "false",
+        "R": "false",
+        "T": "false",
+        "B": "true",
+        "border-color": "#FF0000",
+        "fill-color": "#FFFFFF00",
+        "border-width": "2"
+      },
+      "children": []
+    },
+    "duv4fhIBbG": {
+      "x": 185.85164835164812,
+      "y": 1370,
+      "z": 0,
+      "id": "duv4fhIBbG",
+      "key": "text",
+      "width": 739.7802197802198,
+      "height": 177,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"熟\",\"config\":{}},{\"char\":\"练\",\"config\":{}},{\"char\":\"掌\",\"config\":{}},{\"char\":\"握\",\"config\":{}},{\"char\":\"J\",\"config\":{}},{\"char\":\"a\",\"config\":{}},{\"char\":\"v\",\"config\":{}},{\"char\":\"a\",\"config\":{}},{\"char\":\"核\",\"config\":{}},{\"char\":\"心\",\"config\":{}},{\"char\":\"知\",\"config\":{}},{\"char\":\"识\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"熟\",\"config\":{}},{\"char\":\"悉\",\"config\":{}},{\"char\":\"常\",\"config\":{}},{\"char\":\"用\",\"config\":{}},{\"char\":\"集\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"合\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"及\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"数\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"据\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"结\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"构\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"面\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"向\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"对\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"象\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"反\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"射\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"异\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"常\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"类\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"加\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"载\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"等\",\"config\":{}},{\"char\":\"；\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}},{\"chars\":[{\"char\":\"熟\",\"config\":{}},{\"char\":\"练\",\"config\":{}},{\"char\":\"掌\",\"config\":{}},{\"char\":\"握\",\"config\":{}},{\"char\":\"M\",\"config\":{}},{\"char\":\"y\",\"config\":{}},{\"char\":\"S\",\"config\":{}},{\"char\":\"Q\",\"config\":{}},{\"char\":\"L\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"深\",\"config\":{}},{\"char\":\"刻\",\"config\":{}},{\"char\":\"理\",\"config\":{}},{\"char\":\"解\",\"config\":{}},{\"char\":\"事\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"务\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"及\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"其\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"原\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"理\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"存\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"储\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"引\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"擎\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"索\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"引\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"锁\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"机\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"制\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"M\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"V\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"C\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"C\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"各\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"种\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"日\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"志\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"等\",\"config\":{}},{\"char\":\"；\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}},{\"chars\":[{\"char\":\"熟\",\"config\":{}},{\"char\":\"练\",\"config\":{}},{\"char\":\"掌\",\"config\":{}},{\"char\":\"握\",\"config\":{}},{\"char\":\"R\",\"config\":{}},{\"char\":\"e\",\"config\":{}},{\"char\":\"d\",\"config\":{}},{\"char\":\"i\",\"config\":{}},{\"char\":\"s\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"深\",\"config\":{}},{\"char\":\"刻\",\"config\":{}},{\"char\":\"理\",\"config\":{}},{\"char\":\"解\",\"config\":{}},{\"char\":\"其\",\"config\":{}},{\"char\":\"数\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"据\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"结\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"构\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"持\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"久\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"化\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"策\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"略\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"I\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"O\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"模\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"型\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"哨\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"兵\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"机\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"制\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"高\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"性\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"能\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"原\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"理\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"等\",\"config\":{}},{\"char\":\"；\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}},{\"chars\":[{\"char\":\"熟\",\"config\":{}},{\"char\":\"悉\",\"config\":{}},{\"char\":\"J\",\"config\":{}},{\"char\":\"U\",\"config\":{}},{\"char\":\"C\",\"config\":{}},{\"char\":\"并\",\"config\":{}},{\"char\":\"发\",\"config\":{}},{\"char\":\"编\",\"config\":{}},{\"char\":\"程\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"熟\",\"config\":{}},{\"char\":\"悉\",\"config\":{}},{\"char\":\"掌\",\"config\":{}},{\"char\":\"握\",\"config\":{}},{\"char\":\"各\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"种\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"锁\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"机\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"制\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"C\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"A\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"S\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"A\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"Q\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"S\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"线\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"程\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"池\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"T\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"h\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"r\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"e\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"a\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"d\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"L\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"o\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"c\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"a\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"l\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"等\",\"config\":{}},{\"char\":\"实\",\"config\":{}},{\"char\":\"现\",\"config\":{}},{\"char\":\"原\",\"config\":{}},{\"char\":\"理\",\"config\":{}},{\"char\":\"；\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}},{\"chars\":[{\"char\":\"熟\",\"config\":{}},{\"char\":\"练\",\"config\":{}},{\"char\":\"掌\",\"config\":{}},{\"char\":\"握\",\"config\":{}},{\"char\":\"J\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"V\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"M\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\" \",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"内\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"存\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"结\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"构\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"J\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"M\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"M\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"G\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"C\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\" \",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"算\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"法\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"双\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"亲\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"委\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"派\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"机\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"制\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"常\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"见\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"垃\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"圾\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"回\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"收\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"器\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"等\",\"config\":{}},{\"char\":\"；\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}},{\"chars\":[{\"char\":\"熟\",\"config\":{}},{\"char\":\"练\",\"config\":{}},{\"char\":\"使\",\"config\":{}},{\"char\":\"用\",\"config\":{}},{\"char\":\"S\",\"config\":{}},{\"char\":\"S\",\"config\":{}},{\"char\":\"M\",\"config\":{}},{\"char\":\" \",\"config\":{}},{\"char\":\"、\",\"config\":{}},{\"char\":\"S\",\"config\":{}},{\"char\":\"p\",\"config\":{}},{\"char\":\"r\",\"config\":{}},{\"char\":\"i\",\"config\":{}},{\"char\":\"n\",\"config\":{}},{\"char\":\"g\",\"config\":{}},{\"char\":\"B\",\"config\":{}},{\"char\":\"o\",\"config\":{}},{\"char\":\"o\",\"config\":{}},{\"char\":\"t\",\"config\":{}},{\"char\":\"、\",\"config\":{}},{\"char\":\"S\",\"config\":{}},{\"char\":\"p\",\"config\":{}},{\"char\":\"r\",\"config\":{}},{\"char\":\"i\",\"config\":{}},{\"char\":\"n\",\"config\":{}},{\"char\":\"g\",\"config\":{}},{\"char\":\"C\",\"config\":{}},{\"char\":\"l\",\"config\":{}},{\"char\":\"o\",\"config\":{}},{\"char\":\"u\",\"config\":{}},{\"char\":\"d\",\"config\":{}},{\"char\":\"等\",\"config\":{}},{\"char\":\"框\",\"config\":{}},{\"char\":\"架\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"深\",\"config\":{}},{\"char\":\"刻\",\"config\":{}},{\"char\":\"理\",\"config\":{}},{\"char\":\"解\",\"config\":{}},{\"char\":\"I\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"O\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"C\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"A\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"O\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"P\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"B\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"e\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"a\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"n\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"生\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"命\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"周\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"期\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"循\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"环\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"依\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"赖\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"等\",\"config\":{}},{\"char\":\"；\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}},{\"chars\":[{\"char\":\"熟\",\"config\":{}},{\"char\":\"练\",\"config\":{}},{\"char\":\"使\",\"config\":{}},{\"char\":\"用\",\"config\":{}},{\"char\":\"消\",\"config\":{}},{\"char\":\"息\",\"config\":{}},{\"char\":\"中\",\"config\":{}},{\"char\":\"间\",\"config\":{}},{\"char\":\"件\",\"config\":{}},{\"char\":\"R\",\"config\":{}},{\"char\":\"o\",\"config\":{}},{\"char\":\"c\",\"config\":{}},{\"char\":\"k\",\"config\":{}},{\"char\":\"e\",\"config\":{}},{\"char\":\"t\",\"config\":{}},{\"char\":\"M\",\"config\":{}},{\"char\":\"Q\",\"config\":{}},{\"char\":\"，\",\"config\":{}},{\"char\":\"掌\",\"config\":{}},{\"char\":\"握\",\"config\":{}},{\"char\":\"消\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"息\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"队\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"列\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"模\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"型\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"高\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"效\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"读\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"写\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"刷\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"盘\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"机\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"制\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"、\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"死\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"信\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"队\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"列\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"等\",\"config\":{}},{\"char\":\"知\",\"config\":{}},{\"char\":\"识\",\"config\":{}},{\"char\":\"；\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}},{\"chars\":[{\"char\":\"熟\",\"config\":{}},{\"char\":\"悉\",\"config\":{}},{\"char\":\"常\",\"config\":{}},{\"char\":\"见\",\"config\":{}},{\"char\":\"设\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"计\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"模\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"式\",\"config\":{\"WEIGHT\":\"bold\"}},{\"char\":\"，\",\"config\":{}},{\"char\":\"如\",\"config\":{}},{\"char\":\"单\",\"config\":{}},{\"char\":\"例\",\"config\":{}},{\"char\":\"、\",\"config\":{}},{\"char\":\"工\",\"config\":{}},{\"char\":\"厂\",\"config\":{}},{\"char\":\"、\",\"config\":{}},{\"char\":\"模\",\"config\":{}},{\"char\":\"板\",\"config\":{}},{\"char\":\"方\",\"config\":{}},{\"char\":\"法\",\"config\":{}},{\"char\":\"、\",\"config\":{}},{\"char\":\"责\",\"config\":{}},{\"char\":\"任\",\"config\":{}},{\"char\":\"链\",\"config\":{}},{\"char\":\"、\",\"config\":{}},{\"char\":\"策\",\"config\":{}},{\"char\":\"略\",\"config\":{}},{\"char\":\"模\",\"config\":{}},{\"char\":\"式\",\"config\":{}},{\"char\":\"等\",\"config\":{}},{\"char\":\"；\",\"config\":{}}],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}}]",
+        "ORIGIN_DATA": "[{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"熟练掌握Java核心知识，熟悉常用\"},{\"text\":\"集合及数据结构、面向对象、反射、异常、类加载\",\"bold\":true},{\"text\":\"等；\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"熟练掌握MySQL，深刻理解\"},{\"text\":\"事务及其原理、存储引擎、索引、锁机制、MVCC、各种日志\",\"bold\":true},{\"text\":\"等；\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"熟练掌握Redis，深刻理解其\"},{\"text\":\"数据结构、持久化策略、IO模型、哨兵机制、高性能原理\",\"bold\":true},{\"text\":\"等；\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"熟悉JUC并发编程，熟悉掌握\"},{\"text\":\"各种锁机制、CAS、AQS、线程池、ThreadLocal\",\"bold\":true},{\"text\":\"等实现原理；\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"熟练掌握\"},{\"text\":\"JVM 内存结构、JMM、GC 算法、双亲委派机制、常见垃圾回收器\",\"bold\":true},{\"text\":\"等；\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"熟练使用SSM 、SpringBoot、SpringCloud等框架，深刻理解\"},{\"text\":\"IOC、AOP、Bean生命周期、循环依赖\",\"bold\":true},{\"text\":\"等；\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"熟练使用消息中间件RocketMQ，掌握\"},{\"text\":\"消息队列模型、高效读写、刷盘机制、死信队列\",\"bold\":true},{\"text\":\"等知识；\"}],\"unordered-list-item\":{\"level\":1}}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"熟悉常见\"},{\"text\":\"设计模式\",\"bold\":true},{\"text\":\"，如单例、工厂、模板方法、责任链、策略模式等；\"}],\"unordered-list-item\":{\"level\":1}}]}]"
+      },
+      "children": []
+    },
+    "PEVldnIjGU": {
+      "x": 657.0618131868132,
+      "y": 1085.5,
+      "z": 0,
+      "id": "PEVldnIjGU",
+      "key": "text",
+      "width": 292.7390109890109,
+      "height": 23,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"h\",\"config\":{}},{\"char\":\"t\",\"config\":{}},{\"char\":\"t\",\"config\":{}},{\"char\":\"p\",\"config\":{}},{\"char\":\"s\",\"config\":{}},{\"char\":\":\",\"config\":{}},{\"char\":\"/\",\"config\":{}},{\"char\":\"/\",\"config\":{}},{\"char\":\"g\",\"config\":{}},{\"char\":\"i\",\"config\":{}},{\"char\":\"t\",\"config\":{}},{\"char\":\"h\",\"config\":{}},{\"char\":\"u\",\"config\":{}},{\"char\":\"b\",\"config\":{}},{\"char\":\".\",\"config\":{}},{\"char\":\"c\",\"config\":{}},{\"char\":\"o\",\"config\":{}},{\"char\":\"m\",\"config\":{}},{\"char\":\"/\",\"config\":{}},{\"char\":\"E\",\"config\":{}},{\"char\":\"l\",\"config\":{}},{\"char\":\"e\",\"config\":{}},{\"char\":\"j\",\"config\":{}},{\"char\":\"i\",\"config\":{}},{\"char\":\"a\",\"config\":{}},{\"char\":\"n\",\"config\":{}},{\"char\":\"g\",\"config\":{}},{\"char\":\"/\",\"config\":{}},{\"char\":\"G\",\"config\":{}},{\"char\":\"r\",\"config\":{}},{\"char\":\"a\",\"config\":{}},{\"char\":\"c\",\"config\":{}},{\"char\":\"e\",\"config\":{}},{\"char\":\"G\",\"config\":{}},{\"char\":\"a\",\"config\":{}},{\"char\":\"t\",\"config\":{}},{\"char\":\"e\",\"config\":{}},{\"char\":\"w\",\"config\":{}},{\"char\":\"a\",\"config\":{}},{\"char\":\"y\",\"config\":{}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"https://github.com/Elejiang/GraceGateway\"}]}]"
+      },
+      "children": []
+    },
+    "mKjxZkk9mQ": {
+      "x": 774.9574175824175,
+      "y": 816,
+      "z": 0,
+      "id": "mKjxZkk9mQ",
+      "key": "text",
+      "width": 173.79258241758237,
+      "height": 23,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"2024年06月 - 2024年09月\",\"config\":{}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"2024年06月 - 2024年09月\"}]}]"
+      },
+      "children": []
+    },
+    "GqngUCTiwJ": {
+      "x": 768.7032967032968,
+      "y": 172.5,
+      "z": 0,
+      "id": "GqngUCTiwJ",
+      "key": "text",
+      "width": 173.79258241758237,
+      "height": 23,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"2\",\"config\":{}},{\"char\":\"0\",\"config\":{}},{\"char\":\"2\",\"config\":{}},{\"char\":\"2\",\"config\":{}},{\"char\":\"年\",\"config\":{}},{\"char\":\"0\",\"config\":{}},{\"char\":\"9\",\"config\":{}},{\"char\":\"月\",\"config\":{}},{\"char\":\" \",\"config\":{}},{\"char\":\"-\",\"config\":{}},{\"char\":\" \",\"config\":{}},{\"char\":\"2\",\"config\":{}},{\"char\":\"0\",\"config\":{}},{\"char\":\"2\",\"config\":{}},{\"char\":\"6\",\"config\":{}},{\"char\":\"年\",\"config\":{}},{\"char\":\"0\",\"config\":{}},{\"char\":\"6\",\"config\":{}},{\"char\":\"月\",\"config\":{}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"2022年09月 - 2026年06月\"}]}]"
+      },
+      "children": []
+    },
+    "LB7HawIdYO": {
+      "x": 186.32623626373635,
+      "y": 476,
+      "z": 0,
+      "id": "LB7HawIdYO",
+      "key": "text",
+      "width": 494.9381868131868,
+      "height": 31,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"淘天 - 淘天有限公司 - Java后端实习生\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"小红书 - 行吟信息科技（上海）有限公司 - Java后端实习生\",\"font-base\":{\"fontSize\":17},\"bold\":true}]}]"
+      },
+      "children": []
+    },
+    "Hf4m08ZVnu": {
+      "x": 185.90247252747224,
+      "y": 507,
+      "z": 0,
+      "id": "Hf4m08ZVnu",
+      "key": "text",
+      "width": 758.6950549450551,
+      "height": 76,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"主要工作：\",\"config\":{}}],\"config\":{}},{\"chars\":[],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"主要工作：\"}]},{\"unordered-list\":true,\"children\":[{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"重构项目缓存架构，实现 Caffeine-Redis-MySQL 多级缓存通用代码，应用于17个子类热点数据当中。通过逻辑过期更新防止缓存击穿，使用 Redis 的 Pub/Sub 功能保证本地缓存一致性。\"}],\"unordered-list-item\":{\"level\":1}},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"为满足用户出行需求，主导同程旅行机票查询及订单系统对接，负责数据库表设计及整体流程架构规划。设计高扩展性票务系统架构，为未来接入其它第三方服务提供标准化支持。\"}],\"unordered-list-item\":{\"level\":1}},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"通过使用 Jinjava 模板引擎结合 Few-shot 学习方法，优化 AI 回答机制，有效提升回答准确率与场景契合度，bad case 通过率由32%提升至57%，有效提高系统智能化水平。\"}],\"unordered-list-item\":{\"level\":1}}]}]}]}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"针对大模型长对话场景的历史记忆丢失问题。开发记忆模块总结用户Profile，通过 RocketMQ 异步进行历史对话归档处理，不影响主请求的情况下保障用户长对话的上下文连贯性。\"}],\"unordered-list-item\":{\"level\":1}}]}]"
+      },
+      "children": []
+    },
+    "c0f8VElbtU": {
+      "x": 776.0082417582416,
+      "y": 475,
+      "z": 0,
+      "id": "c0f8VElbtU",
+      "key": "text",
+      "width": 173.79258241758237,
+      "height": 23,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"2025年05月 - 2025年08月\",\"config\":{}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"2024年10月 - 2025年02月\"}]}]"
+      },
+      "children": []
+    },
+    "Wq7g8kkr63": {
+      "x": 186.32623626373635,
+      "y": 276.3292503207922,
+      "z": 0,
+      "id": "Wq7g8kkr63",
+      "key": "text",
+      "width": 494.9381868131868,
+      "height": 31,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"字节 - 北京字节跳动科技有限公司 - Java后端实习生\",\"config\":{\"WEIGHT\":\"bold\",\"SIZE\":\"17\"}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"小红书 - 行吟信息科技（上海）有限公司 - Java后端实习生\",\"font-base\":{\"fontSize\":17},\"bold\":true}]}]"
+      },
+      "children": []
+    },
+    "cGtSyYTjUv": {
+      "x": 183.80082417582406,
+      "y": 307.3292503207922,
+      "z": 0,
+      "id": "cGtSyYTjUv",
+      "key": "text",
+      "width": 758.6950549450551,
+      "height": 153,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"主要工作：\",\"config\":{}}],\"config\":{}},{\"chars\":[],\"config\":{\"UNORDERED_LIST_LEVEL\":\"1\"}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"主要工作：\"}]},{\"unordered-list\":true,\"children\":[{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"重构项目缓存架构，实现 Caffeine-Redis-MySQL 多级缓存通用代码，应用于17个子类热点数据当中。通过逻辑过期更新防止缓存击穿，使用 Redis 的 Pub/Sub 功能保证本地缓存一致性。\"}],\"unordered-list-item\":{\"level\":1}},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"为满足用户出行需求，主导同程旅行机票查询及订单系统对接，负责数据库表设计及整体流程架构规划。设计高扩展性票务系统架构，为未来接入其它第三方服务提供标准化支持。\"}],\"unordered-list-item\":{\"level\":1}},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"通过使用 Jinjava 模板引擎结合 Few-shot 学习方法，优化 AI 回答机制，有效提升回答准确率与场景契合度，bad case 通过率由32%提升至57%，有效提高系统智能化水平。\"}],\"unordered-list-item\":{\"level\":1}}]}]}]}]},{\"unordered-list\":true,\"children\":[{\"children\":[{\"text\":\"针对大模型长对话场景的历史记忆丢失问题。开发记忆模块总结用户Profile，通过 RocketMQ 异步进行历史对话归档处理，不影响主请求的情况下保障用户长对话的上下文连贯性。\"}],\"unordered-list-item\":{\"level\":1}}]}]"
+      },
+      "children": []
+    },
+    "yosBZkz6tC": {
+      "x": 298.0000000000001,
+      "y": 351.514280711611,
+      "z": 0,
+      "id": "yosBZkz6tC",
+      "key": "text",
+      "width": 0,
+      "height": 0,
+      "attrs": {},
+      "children": []
+    },
+    "U08yxlFSTH": {
+      "x": 269.0000000000001,
+      "y": 255.51428071161098,
+      "z": 0,
+      "id": "U08yxlFSTH",
+      "key": "rect",
+      "width": 0,
+      "height": 1,
+      "attrs": {
+        "border-color": "#888",
+        "L": "true",
+        "R": "true",
+        "T": "true",
+        "B": "true"
+      },
+      "children": []
+    },
+    "YvhWhdz6Sk": {
+      "x": 769.7032967032966,
+      "y": 280.3292503207922,
+      "z": 0,
+      "id": "YvhWhdz6Sk",
+      "key": "text",
+      "width": 173.79258241758237,
+      "height": 23,
+      "attrs": {
+        "DATA": "[{\"chars\":[{\"char\":\"2026年09月 - 2026年03月\",\"config\":{}}],\"config\":{}}]",
+        "ORIGIN_DATA": "[{\"children\":[{\"text\":\"2024年10月 - 2025年02月\"}]}]"
+      },
+      "children": []
+    }
+  }
+}
